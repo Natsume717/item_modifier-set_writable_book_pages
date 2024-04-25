@@ -1,8 +1,7 @@
 # item_modifier-set_writable_book_pages
 item_modifierの1項目であるset_writable_book_pagesのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_writable_book_pagesでページを挿入【item_modifier】](https://natsumake.com/item_modifier-set_writable_book_pages/)』を参考にしてください。
 
 <h3>概要</h3>
 本と羽ペンに対して、ページの挿入を行えます。<br>

@@ -1,0 +1,9 @@
+{
+  "function": "minecraft:set_writable_book_pages",
+  "pages": [
+    "sample_text"
+  ],
+  "mode": "replace_section",
+  "offset": 0,
+  "size": 1
+}

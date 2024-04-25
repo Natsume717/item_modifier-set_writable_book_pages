@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_writable_book_pages",
+  "pages": [
+    "sample_text"
+  ],
+  "mode": "insert",
+  "offset": 2
+}
